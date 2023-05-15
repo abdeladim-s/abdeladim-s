@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Abdeladim
 
-I like writing software .. among other things :stuck_out_tongue_winking_eye:
+I like writing software .. among other things 🙂
 
 <h3 align="left">Stats</h3>
 
