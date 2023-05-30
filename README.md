@@ -2,11 +2,16 @@
 
 I like writing software .. among other things 🙂
 
-<h3 align="left">Stats</h3>
+<p align="left">
+  <img src="https://img.shields.io/github/stars/abdeladim-s?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+ <img src="https://komarev.com/ghpvc/?username=abdeladim-s&label=Profile%20views&color=45bf17&style=flat" alt="abdeladim-s" /> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/abdeladim-s?label=Followers&style=social">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdeladim-s&label=Profile%20views&color=0e75b6&style=flat" alt="abdeladim-s" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdeladim-s&show_icons=true&locale=en&count_private=true" alt="abdeladim-s" /></p>
+<p align="left">  </p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdeladim-s&show_icons=true&locale=en&count_private=true" alt="abdeladim-s" /></p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdeladim-s&show_icons=true&locale=en&layout=compact" alt="abdeladim-s" /></p>
 
