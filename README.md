@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Abdeladim
 
-I like writing software .. among other things 🙂
+<!-- I like writing software .. among other things 🙂 -->
 
 <p align="left">
   <img src="https://img.shields.io/github/stars/abdeladim-s?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
